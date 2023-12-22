@@ -1,0 +1,15 @@
+{
+  "name": "encryption-sample-app",
+  "version": "1.0.0",
+  "description": "POC high security example app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:saulrb/encryption-sample-app.git"
+  },
+  "author": "Saul Rosales",
+  "license": "MIT"
+}
